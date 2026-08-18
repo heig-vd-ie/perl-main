@@ -18,9 +18,9 @@ To facilitate efficient research, we maintain several specialized repositories. 
 
 | Repository | Purpose |
 | :--- | :--- |
-| **`perl-main`** | This hub. Lab presentation and project mapping |
-| **`perl-plecs_tools`** | Automation and library support for PLECS |
-| **`perl-python_tools`** | A suite of tools for data processing, signal analysis and systems design |
+| [**`perl-main`**](https://github.com/heig-vd-ie/perl-main) | This hub. Lab presentation and project mapping |
+| [**`perl-plecs_tools`**](https://github.com/heig-vd-ie/perl-plecs_tools) | Automation and library support for PLECS |
+| [**`perl-python_tools`**](https://github.com/heig-vd-ie/perl-python_tools) | A suite of tools for data processing, signal analysis and systems design |
 
 ---
 
