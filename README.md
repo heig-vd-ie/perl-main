@@ -14,6 +14,16 @@ The Power Electronics Research Laboratory is dedicated to advancing the state-of
 
 To facilitate efficient research, we maintain several specialized repositories. These tools are designed to streamline simulation workflows, data analysis, and system verification.
 
+## Project Template
+
+The **Project Template** is a starting template for creating new
+projects.
+
+It provides a predefined project structure and configuration that can be
+reused when starting a new PLECS-related project. The goal is to keep
+projects consistent and reduce the amount of setup required for each new
+project.
+
 ### Core Repositories
 
 | Repository | Purpose |
